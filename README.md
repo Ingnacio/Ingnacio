@@ -1,4 +1,7 @@
+![Rasyad-Ananta](Image/github-header-banner.png)
+
 ## Hi there 👋
+### Currently Student Of SMK N2 Yogyakarta
 
 <!--
 **Ingnacio/Ingnacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
