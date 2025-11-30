@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🌱 Currently learning **JavaScript, React, and Node.js**
-- 💻 Interested in **web development & backend**
+- 💻 Interested in **web development fullstack**
 - 🎯 Goal: Build real projects and improve my coding skills
 - ⚡ Fun fact: I love learning new tech!
 
@@ -23,16 +23,14 @@
 
 #### **Framework / Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,vscode,figma" />
 </p>
 
----
-
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 <p align="Left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ingnacio&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingnacio&layout=compact&theme=tokyonight" height="165">
-</p>
+</p> -->
 
 ---
 
